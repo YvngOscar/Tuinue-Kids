@@ -1,0 +1,56 @@
+{
+  "vision": "To create a future where children with cerebral palsy thrive in the society, empowered by tailored support and education for holistic development and inclusion",
+  "mission": "Empowering children with cerebral palsy in Kenya through tailored support and education for holistic development and inclusion.",
+  "about": "Tuinue Kids is a compassionate organization dedicated to enhancing the lives of children living with cerebral palsy in Kenya. Founded on the belief that every child deserves equal opportunities and support, Tuinue Kids is committed to providing specialized care, education, and resources to empower children with cerebral palsy to thrive.\n\nAt Tuinue Kids, we understand the unique challenges that children with cerebral palsy and their families face on a daily basis. Our mission is to alleviate these challenges by offering comprehensive programs tailored to meet the individual needs of each child. Through a holistic approach that encompasses physical therapy, educational support, emotional counseling, and community outreach, we strive to foster a nurturing environment where every child can reach their full potential.\n\nOur team of dedicated professionals, including therapists, educators, and caregivers, work tirelessly to create personalized treatment plans that address the specific needs and abilities of each child. We believe in the importance of early intervention and ongoing support, ensuring that children with cerebral palsy have access to the resources they need to thrive from a young age.\n\nIn addition to direct support services, Tuinue Kids is committed to raising awareness about cerebral palsy and advocating for the rights and inclusion of children with disabilities in Kenyan society. Through community workshops, educational campaigns, and partnerships with local organizations, we seek to break down stigma and promote understanding and acceptance of children with cerebral palsy.\n\nAt Tuinue Kids, we believe that every child has the potential to lead a fulfilling and meaningful life, regardless of their abilities. By providing the necessary support and resources, we empower children with cerebral palsy to overcome obstacles, embrace their strengths, and pursue their dreams. Together, we can create a brighter future for children with cerebral palsy in Kenya.",
+  "gallery": "https://tuinuekidsgallery.pockethost.io/api/collections/Tuinuekidsimages/records",
+  "donation": {
+    "bank": {
+      "paybill": "222111",
+      "accNumber": "005000085361"
+    }
+  },
+  "contacts": {
+    "phone": [
+      "+254 721 111 478",
+      "+254 751 382 423"
+    ],
+    "socials": {
+      "Facebook": "",
+      "Instagram": "",
+      "Twitter": "",
+      "Whatsapp": ""
+    }
+  },
+  "whatWeDo": [
+    {
+      "activity": "Medicine & Therapy",
+      "includes": [
+        ""
+      ]
+    },
+    {
+      "activity": "Assistive technology",
+      "includes": [
+        "Wheelchairs",
+        "crutches",
+        "etc"
+      ]
+    },
+    {
+      "activity": "Outreach & Activities",
+      "includes": [
+        ""
+      ]
+    },
+    {
+      "activity": "Food & Essentials",
+      "includes": [
+        "Clothes",
+        "Flour",
+        "Grains",
+        "Towels",
+        "Pads"
+      ]
+    }
+  ]
+}
