@@ -24,10 +24,10 @@ export default function ContactUsSection() {
         if(!form.current) return;
         emailJs
             .sendForm(
-                'service_80cpr0h',
-                'template_b297ctx',
+                'service_hmo3hob',
+                'template_y1ymxow',
                 form.current, {
-                    publicKey: 'dmgkPM9q4YCmFd2ZJ',
+                    publicKey: 'wkxTUlgJqHsEtXDrO',
                 }
             )
             .then(()=>{
